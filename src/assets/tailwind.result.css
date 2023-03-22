@@ -1,0 +1,78 @@
+.ml-15 {
+  margin-left: 15px !important
+}
+
+.mr-11 {
+  margin-right: 11px !important
+}
+
+.mt-6 {
+  margin-top: 6px !important
+}
+
+.flex {
+  display: flex !important
+}
+
+.flex-1 {
+  flex: 1 1 0% !important
+}
+
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important
+}
+
+.items-center {
+  align-items: center !important
+}
+
+.justify-center {
+  justify-content: center !important
+}
+
+.rounded-3 {
+  border-radius: 3px !important
+}
+
+.rounded-6 {
+  border-radius: 6px !important
+}
+
+.bg-\[\#F5EADC\] {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgb(245 234 220 / var(--tw-bg-opacity)) !important
+}
+
+.bg-white {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity)) !important
+}
+
+.px-10 {
+  padding-left: 10px !important;
+  padding-right: 10px !important
+}
+
+.px-11 {
+  padding-left: 11px !important;
+  padding-right: 11px !important
+}
+
+.py-14 {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important
+}
+
+.py-8 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important
+}
+
+.text-12 {
+  font-size: 12px !important
+}
+
+.text-\[\#A16311\] {
+  --tw-text-opacity: 1 !important;
+  color: rgb(161 99 17 / var(--tw-text-opacity)) !important
+}
