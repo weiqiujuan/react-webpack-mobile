@@ -1,4 +1,4 @@
-### React-webpack-基于antd-mobile库的一套移动端脚手架配置 
+### React-webpack  基于antd-mobile库的一套移动端脚手架配置 
 
  
 > 首屏的load事件触发不到0.4s    
